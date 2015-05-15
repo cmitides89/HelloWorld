@@ -28,6 +28,11 @@
                 //add the event listener to the button and on click do 
                 //the clickhandler function
                 helloButton.addEventListener("click", buttonClickHandler, false);
+
+                //retrieve the input element and register our
+                //event handler.
+                var nameInput = document.getElementById("nameInput");
+                nameInput.addEventListener("change", nameInputChanged);
             }));
         }
     };
