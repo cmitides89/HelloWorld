@@ -1,0 +1,15 @@
+C:\Users\Constantin\Documents\code\Windows\HelloWorld\HelloWorld\HelloWorld.Windows\bin\Debug\ReverseMap\resources.pri
+C:\Users\Constantin\Documents\code\Windows\HelloWorld\HelloWorld\HelloWorld.Windows\bin\Debug\AppxManifest.xml
+C:\Users\Constantin\Documents\code\Windows\HelloWorld\HelloWorld\HelloWorld.Windows\bin\Debug\HelloWorld.Windows.build.appxrecipe
+C:\Users\Constantin\Documents\code\Windows\HelloWorld\HelloWorld\HelloWorld.Windows\bld\Debug\priconfig.xml
+C:\Users\Constantin\Documents\code\Windows\HelloWorld\HelloWorld\HelloWorld.Windows\bld\Debug\priconfig.xml.intermediate
+C:\Users\Constantin\Documents\code\Windows\HelloWorld\HelloWorld\HelloWorld.Windows\bld\Debug\layout.resfiles
+C:\Users\Constantin\Documents\code\Windows\HelloWorld\HelloWorld\HelloWorld.Windows\bld\Debug\layout.resfiles.intermediate
+C:\Users\Constantin\Documents\code\Windows\HelloWorld\HelloWorld\HelloWorld.Windows\bld\Debug\resources.resfiles
+C:\Users\Constantin\Documents\code\Windows\HelloWorld\HelloWorld\HelloWorld.Windows\bld\Debug\resources.resfiles.intermediate
+C:\Users\Constantin\Documents\code\Windows\HelloWorld\HelloWorld\HelloWorld.Windows\bld\Debug\pri.resfiles
+C:\Users\Constantin\Documents\code\Windows\HelloWorld\HelloWorld\HelloWorld.Windows\bld\Debug\pri.resfiles.intermediate
+C:\Users\Constantin\Documents\code\Windows\HelloWorld\HelloWorld\HelloWorld.Windows\bld\Debug\qualifiers.txt
+C:\Users\Constantin\Documents\code\Windows\HelloWorld\HelloWorld\HelloWorld.Windows\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Constantin\Documents\code\Windows\HelloWorld\HelloWorld\HelloWorld.Windows\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Constantin\Documents\code\Windows\HelloWorld\HelloWorld\HelloWorld.Windows\bld\Debug\ProjectArchitectures.txt
